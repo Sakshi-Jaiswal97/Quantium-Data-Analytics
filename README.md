@@ -1,2 +1,2 @@
 # Quantium-Data-Analytics
-Virtual internship project completed via Forage in collaboration with Quantium. This project focuses on analyzing customer transaction data to generate business insights for a retail client. Key tasks include data cleaning, exploratory data analysis (EDA), customer segmentation, and data-driven recommendations.
+Job simulation project completed via Forage in collaboration with Quantium's data science team. This experience focused on data analytics and commercial insights, including data preparation, customer behavior analysis, benchmark store identification for uplift testing, and strategic report creation. The project emphasizes evidence-based decision-making and delivering actionable commercial recommendations to stakeholders.
